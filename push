@@ -1,0 +1,18 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9896-046E
+
+ Directory of C:\kw\todo
+
+07/09/2017  03:57 PM    <DIR>          .
+07/09/2017  03:57 PM    <DIR>          ..
+07/09/2017  03:55 PM                92 .eslintrc
+07/09/2017  03:55 PM                47 .gitignore
+07/09/2017  03:55 PM    <DIR>          client
+07/09/2017  03:55 PM    <DIR>          components
+07/09/2017  03:55 PM               908 package.json
+07/09/2017  03:57 PM                 0 push
+07/09/2017  03:55 PM               221 README.md
+07/09/2017  03:55 PM    <DIR>          server
+07/09/2017  03:55 PM               826 webpack.config.js
+               6 File(s)          2,094 bytes
+               5 Dir(s)  49,717,911,552 bytes free
